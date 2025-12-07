@@ -1,7 +1,7 @@
 # 👋 Welcome to my page  
 ## Hi, I'm Nguyen Anh Tuan!
 
-🌱 I’m currently learning at FPT University, focusing on Software Engineering and developing both technical and soft skills for my future career.
+🌱 I’m currently learning at FPT University, focusing on backend ASP.NET CORE developing both technical and soft skills for my future career.
 
 ---
 
@@ -47,10 +47,13 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aAnhTuan-Nguyen&show_icons=true&theme=radical&hide_border=true" height="200"/>
-  <img src="https://streak-stats.demolab.com?user=aAnhTuan-Nguyen&theme=radical&hide_border=true" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=aAnhTuan-Nguyen&show_icons=true&theme=radical&hide_border=true" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=aAnhTuan-Nguyen&theme=radical&hide_border=true" height="150"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aAnhTuan-Nguyen&theme=radical&hide_border=true&layout=compact" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aAnhTuan-Nguyen&theme=radical&hide_border=true&layout=compact" height="150"/>
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aAnhTuan-Nguyen&label=Profile%20views&color=0e75b6&style=flat" alt="aAnhTuan-Nguyen" />
 </p>
