@@ -44,16 +44,44 @@
 </p>
 
 ---
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aAnhTuan-Nguyen&show_icons=true&theme=radical&hide_border=true" height="150"/>
-  <img src="https://streak-stats.demolab.com?user=aAnhTuan-Nguyen&theme=radical&hide_border=true" height="150"/>
-</p>
+### 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aAnhTuan-Nguyen&theme=radical&hide_border=true&layout=compact" height="150"/>
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img
+      alt="aAnhTuan-Nguyen's streak"
+      src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=aAnhTuan-Nguyen&theme=monokai-metallian&hide_border=true"
+    />
+  </a>
 </p>
+
+---
+
+### 💻 GitHub Profile Stats
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aAnhTuan-Nguyen&label=Profile%20views&color=0e75b6&style=flat" alt="aAnhTuan-Nguyen" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      alt="GitHub Stats"
+      height="190"
+      src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=aAnhTuan-Nguyen&show_icons=true&include_all_commits=true&count_private=true&theme=monokai&hide_border=true&bg_color=1F222E"
+    />
+  </a>
+
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      alt="Top Languages"
+      height="190"
+      src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=aAnhTuan-Nguyen&layout=compact&langs_count=8&theme=monokai&hide_border=true&bg_color=1F222E"
+    />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=aAnhTuan-Nguyen&label=Profile%20views&color=orange&style=flat"
+    alt="profile views"
+  />
 </p>
